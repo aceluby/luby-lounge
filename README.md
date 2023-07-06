@@ -1,7 +1,6 @@
-# _Luby Lounge_
-<br/>
+## _Luby Lounge_
 
-## 1. MoCitra APA
+### 1. MoCitra APA
 
 |   |   |
 |---|---|
@@ -9,14 +8,14 @@
 | Description | A hoppy American Pale Ale made with a combination of mosaic and citra hops. Fresh and citrusy that will satisfy any hop head. |
 | ABV | 7% |
 
-## 2. Brewing Like a Monk
+### 2. Brewing Like a Monk
 |   |   |
 |---|---|
 | Style | Belgian Pale Ale |
 | Description | A classic Beligian single with notes of clove and spice. All the Belgian flavor at half the alcohol. Have 2! You deserve it. |
 | ABV | 6% |
 
-## 3. Luby Lager
+### 3. Luby Lager
 |   |   |
 |---|---|
 | Style | German Helles Lager |
