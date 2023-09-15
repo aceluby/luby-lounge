@@ -1,17 +1,17 @@
 ## _Luby Lounge_
-#### 1. MoCitra APA
+#### 1. Dunk the Luby
 |   |   |
 |---|---|
-| Style | American Pale Ale |
-| Description | A hoppy American Pale Ale made with a combination of mosaic and citra hops. Fresh and citrusy that will satisfy any hop head. |
-#### 2. Brewing Like a Monk
+| Style | Munich Dunkel |
+| Description | A malty lager brewed with 100% German Munich malt and lightly hopped with Czech Saaz |
+#### 2. Oktoberfest
 |   |   |
 |---|---|
-| Style | Belgian Pale Ale |
-| Description | A classic Beligian single with notes of clove and spice. All the Belgian flavor at half the alcohol. Have 2! You deserve it. |
+| Style | Marzen |
+| Description | A classic German Marzen brewed with German Pilsner, Vienna, and Munich malts - hopped with a combination of US and Czech saaz hops |
 
-#### 3. Luby Lager
+#### 3. Festy Besty
 |   |   |
 |---|---|
-| Style | German Helles Lager |
-| Description | A classic helles lager brewed with German pilsner and munich malts, lightly hopped with Czech saaz hops. A great beer for anyone who needs a break from the heavy handed hop profiles of IPAs.|
+| Style | German Festbier |
+| Description | Based on the style that they serve at the Oktoberfest in Germany, this is a beer brewed with Pilsner and a touch of Munich malts - hopped with Triple Perle hops |
